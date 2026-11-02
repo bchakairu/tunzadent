@@ -7,7 +7,7 @@ https://tunzadent.vercel.app/
 Tunzadent is a web-based clinical support system designed to assist dentists in detecting dental caries (tooth decay) from bitewing radiographs using deep learning.  
 The system integrates a **Masked Autoencoder (MAE)** for self-supervised pre-training and a **Vision Transformer (ViT)** for fine-tuned binary classification of dental images.  
 
-Through a two-stage training pipeline—self-supervised learning on **16,826 unlabeled tooth images** and fine-tuning on **624 labeled bitewing X-rays**—the model achieves **90.67% accuracy** on test data.
+Through a two-stage training pipeline-self-supervised learning on **16,826 unlabeled tooth images** and fine-tuning on **624 labeled bitewing X-rays**-the model achieves **90.67% accuracy** on test data.
 
 ---
 
@@ -240,8 +240,8 @@ This project is licensed under the **MIT License**.
 ## Acknowledgments
 
 ### Datasets
-- **Kaggle:** `tooth-number01` — Pre-training dataset  
-- **Roboflow:** `bitewing-3my0p` — Fine-tuning dataset  
+- **Kaggle:** `tooth-number01` - Pre-training dataset  
+- **Roboflow:** `bitewing-3my0p` - Fine-tuning dataset  
 
 ### Frameworks and Libraries
 - Django & Django REST Framework  
