@@ -1,4 +1,4 @@
-# Tunzadent — AI-Powered Dental Caries Detection System
+# Tunzadent - AI-Powered Dental Caries Detection System
 
 ## Website Link 
 https://tunzadent.vercel.app/
