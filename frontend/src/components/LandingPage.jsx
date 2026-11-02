@@ -145,7 +145,7 @@ export default function LandingPage() {
             <div>
               <div className="bg-gray-100 border border-gray-200 p-8">
                 <img 
-                  src="/images/dentist1.webp" 
+                  src="/images/hero1.png" 
                   alt="Dental diagnostics"
                   className="w-full h-80 object-cover"
                 />
@@ -161,7 +161,7 @@ export default function LandingPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <img 
-                src="/images/dentist2.webp" 
+                src="/images/hero2.png" 
                 alt="Dentist" 
                 className="w-full border border-gray-200"
               />  
